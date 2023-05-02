@@ -24,5 +24,3 @@
 </div>
 
 ##
-
-![Snake animation](https://github.com/emersondearaujo/emersondearaujo/blob/output/github.com-contribution-grid-snake.svg)
