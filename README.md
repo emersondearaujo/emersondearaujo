@@ -23,3 +23,5 @@
   <a href="https://www.linkedin.com/in/emerson-d-5796a094/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![Snake animation](https://github.com/emersondearaujo/emersondearaujo/blob/output/github.com-contribution-grid-snake.svg)
