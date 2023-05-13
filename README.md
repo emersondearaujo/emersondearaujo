@@ -24,3 +24,9 @@
 </div>
 
 ##
+  
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/emersondearaujo/count.svg" /></p>
+
+
+
+![snake gif](https://github.com/emersondearaujo/emersondearaujo/blob/output/github-contribution-grid-snake.svg)
