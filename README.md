@@ -6,6 +6,11 @@
 - 🔭 Em busca de oportunidade no mercado de trabalho para realizar transição de carreira.
 - 🌱 Atualmente cursando análise e desenvolvimento de sistemas.
 ##
+<div align="center">
+  <a href="https://github.com/emersondearaujo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersondearaujo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersondearaujo&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 <div align="center">
   <a href="https://instagram.com/emerson.emin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
