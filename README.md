@@ -3,7 +3,7 @@
   <a href="https://github.com/emersondearaujo">
 </div>
 
-- 🔭 Em busca de oportunidade no mercado de trabalho para realizar transição de carreira.
+- 🔭 Adquirindo conhecimento sempre.
 - 🌱 Atualmente cursando análise e desenvolvimento de sistemas.
 ##
 <div align="center">
