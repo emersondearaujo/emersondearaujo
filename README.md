@@ -26,5 +26,3 @@
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp; 
   
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/emersondearaujo/count.svg" /></p>
-
-![snake gif](https://github.com/emersondearaujo/emersondearaujo/blob/output/github-contribution-grid-snake.svg)
