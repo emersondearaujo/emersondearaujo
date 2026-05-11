@@ -1,7 +1,7 @@
-# 👋 Olá, eu sou Emerson Emin
+# 👋 Olá, eu sou Emerson
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Backend+Java;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia+e+Dados" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=28&center=true&vCenter=true&width=1000&lines=;Apaixonado+por+Tecnologia" />
 </p>
 
 ---
