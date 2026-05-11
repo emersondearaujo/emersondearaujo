@@ -11,8 +11,7 @@
 🎯 Focado em desenvolvimento backend com Java e Spring Boot
 📚 Estudando Análise e Desenvolvimento de Sistemas
 📊 Pós-graduação em Análise de Dados
-💻 Desenvolvendo projetos Full Stack com React + Spring Boot
-🚛 Criador do projeto Sistema de Gestão de Frota
+💻 Desenvolvendo projetos Full Stack
 
 ---
 
@@ -62,16 +61,6 @@ Sistema Full Stack desenvolvido para desafio técnico utilizando:
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersondearaujo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersondearaujo&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
 # 🌐 Contato
 
 <div align="center">
@@ -80,14 +69,6 @@ Sistema Full Stack desenvolvido para desafio técnico utilizando:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/emerson.emin" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/emersondearaujo/count.svg" />
-</p>
