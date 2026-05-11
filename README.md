@@ -8,8 +8,8 @@
 
 # 🚀 Sobre Mim
 
-🎯 Focado em desenvolvimento backend com Java e Spring Boot
-📚 Estudando Análise e Desenvolvimento de Sistemas
+🎯 Focado em desenvolvimento backend
+📚 Análise e Desenvolvimento de Sistemas
 📊 Pós-graduação em Análise de Dados
 💻 Desenvolvendo projetos Full Stack
 
