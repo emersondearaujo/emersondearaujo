@@ -1,27 +1,93 @@
-## Olá eu sou o Emerson! Seja bem vindo ao meu perfil 😁👋
-<div align="center">
-  <a href="https://github.com/emersondearaujo">
-</div>
+# 👋 Olá, eu sou Emerson Emin
 
-- 🔭 Adquirindo conhecimento sempre.
-- 🌱 Atualmente cursando análise e desenvolvimento de sistemas.
-##
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Backend+Java;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia+e+Dados" />
+</p>
+
+---
+
+# 🚀 Sobre Mim
+
+🎯 Focado em desenvolvimento backend com Java e Spring Boot
+📚 Estudando Análise e Desenvolvimento de Sistemas
+📊 Pós-graduação em Análise de Dados
+💻 Desenvolvendo projetos Full Stack com React + Spring Boot
+🚛 Criador do projeto Sistema de Gestão de Frota
+
+---
+
+# 🛠️ Tecnologias
+
+## Backend
+
+![Java](https://img.shields.io/badge/Java-17-red?style=for-the-badge\&logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven)
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+
+## Banco de Dados
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql)
+![H2](https://img.shields.io/badge/H2-09476B?style=for-the-badge)
+
+## Outros
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+
+---
+
+# 📌 Projeto em Destaque
+
+## 🚛 Sistema de Gestão de Frota
+
+Sistema Full Stack desenvolvido para desafio técnico utilizando:
+
+✅ Java 17
+✅ Spring Boot
+✅ React
+✅ API REST
+✅ Controle de caminhões
+✅ Gestão de motoristas
+✅ Rotas e fretes
+✅ Regras de negócio
+✅ Cálculo automático de frete
+
+🔗 Repositório:
+[gestao-frota-api](https://github.com/emersondearaujo/gestao-frota-api)
+
+---
+
+# 📈 GitHub Stats
+
 <div align="center">
-  <a href="https://github.com/emersondearaujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersondearaujo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersondearaujo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+---
+
+# 🌐 Contato
+
 <div align="center">
-  <a href="https://instagram.com/emerson.emin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/fkv3SJkVn8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/emerson-d-5796a094/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<a href="https://www.linkedin.com/in/emerson-d-5796a094/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/emerson.emin" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </div>
-  
-### Estudando no momento:
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=0D1117)&nbsp;
-![sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp; 
-  
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/emersondearaujo/count.svg" /></p>
+
+---
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/emersondearaujo/count.svg" />
+</p>
